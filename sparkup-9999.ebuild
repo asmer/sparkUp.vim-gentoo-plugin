@@ -6,7 +6,7 @@ EAPI=3
 
 inherit vim-plugin git
 
-DESCRIPTION="vim plugin: Ack is better than grep"
+DESCRIPTION="vim plugin: SparkUp - Zen Coding for ViM"
 HOMEPAGE="https://github.com/rstacruz/sparkup"
 SRC_URI=""
 EGIT_REPO_URI="git://github.com/rstacruz/sparkup.git"
